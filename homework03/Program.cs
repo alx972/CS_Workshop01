@@ -1,4 +1,5 @@
-﻿Console.Write("Введите число: ");
+﻿// Проверка, является ли введенное число четным
+Console.Write("Введите число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 if (Math.Abs(numberA) % 2 == 1)
 {

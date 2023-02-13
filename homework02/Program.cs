@@ -1,4 +1,5 @@
-﻿Console.Write("Введите число A: ");
+﻿// Программа выдает максимальное из вводимых трёх чисел
+Console.Write("Введите число A: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число B: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
